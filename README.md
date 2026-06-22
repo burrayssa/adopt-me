@@ -1,4 +1,4 @@
-# 🐾 Adote um Amigo
+# 🐾 Adopt Me
 
 Um projeto desenvolvido para a disciplina de **Introdução à Programação Web** do **Instituto Federal do Piauí (IFPI) – Campus São Raimundo Nonato**.
 
