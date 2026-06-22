@@ -4,7 +4,7 @@ Um projeto desenvolvido para a disciplina de **Introdução à Programação Web
 
 ## 📖 Sobre o Projeto
 
-O **Adote um Amigo** é um site criado com o objetivo de incentivar a adoção responsável de animais, conectando pessoas interessadas em adotar com animais que precisam de um novo lar.
+O **Adopt Me** é um site criado com o objetivo de incentivar a adoção responsável de animais, conectando pessoas interessadas em adotar com animais que precisam de um novo lar.
 
 A plataforma apresenta informações sobre os animais disponíveis para adoção, facilitando o processo de busca e conscientizando sobre a importância do cuidado e da proteção animal.
 
